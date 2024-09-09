@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6e6fa; /* Lilás claro */
+    color: #4b0082; /* Indigo para texto */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #9370db; /* Lilás escuro */
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: #7a5dc7; /* Lilás mais escuro */
+}
